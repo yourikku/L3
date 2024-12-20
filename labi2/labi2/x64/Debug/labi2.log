@@ -1,0 +1,31 @@
+﻿  labi2.cpp
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(52,72): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(83,72): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(88,72): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(52,72): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(52,34): error C2144: синтаксическая ошибка: перед "unknown-type" требуется ")"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(52,34): error C2144: синтаксическая ошибка: перед "unknown-type" требуется ";"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(52,72): error C2059: синтаксическая ошибка: )
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(52,84): error C2059: синтаксическая ошибка: )
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(83,72): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(83,34): error C2144: синтаксическая ошибка: перед "unknown-type" требуется ")"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(83,34): error C2144: синтаксическая ошибка: перед "unknown-type" требуется ";"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(83,72): error C2059: синтаксическая ошибка: )
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(83,84): error C2059: синтаксическая ошибка: )
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(88,72): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(88,34): error C2144: синтаксическая ошибка: перед "unknown-type" требуется ")"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(88,34): error C2144: синтаксическая ошибка: перед "unknown-type" требуется ";"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(88,72): error C2059: синтаксическая ошибка: )
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(88,84): error C2059: синтаксическая ошибка: )
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(123,68): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(123,68): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(123,30): error C2144: синтаксическая ошибка: перед "unknown-type" требуется ")"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(123,30): error C2144: синтаксическая ошибка: перед "unknown-type" требуется ";"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(123,68): error C2059: синтаксическая ошибка: )
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(123,80): error C2059: синтаксическая ошибка: )
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(126,64): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(126,64): error C2589: (: недопустимая лексема справа от "::"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(126,26): error C2144: синтаксическая ошибка: перед "unknown-type" требуется ")"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(126,26): error C2144: синтаксическая ошибка: перед "unknown-type" требуется ";"
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(126,64): error C2059: синтаксическая ошибка: )
+C:\Users\Администратор\OneDrive\Рабочий стол\дз\labi2\labi2\labi2.cpp(126,76): error C2059: синтаксическая ошибка: )
